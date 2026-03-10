@@ -1,5 +1,5 @@
-# HW04
+# HW05
 
-Tic-Tac-Toe game implemented in C.
+C program using structures and dynamic memory allocation.
 
-Players take turns placing marks on a 3x3 board until a winner is determined or the game ends.
+The program stores and prints book information using malloc.
